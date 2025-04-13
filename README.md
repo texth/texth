@@ -1,23 +1,27 @@
 ## Hi, I'm Maksym
-    
+
+### Check my last projects
+StackOverflow-style forum [Medium code](https://github.com/texth/usof_public)<br>
+Calendars management app [Chronos](https://github.com/texth/chronos) (team project)<br>
+Events management app [UEvent](https://github.com/FreQll/Uevent-Fullstack) (team project)<br>
+
+
+
 ## My Tech. stack:
-<h3>Backend development</h3>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" />
-  </a>
-</p>
+ - Java
+ - C
+ - SAS
 
-<h3>Frontend development</h3>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-  </a>
-</p>
+<h4>Backend development</h4>
 
-<h3>Additional knowledge</h3>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,linux,arduino" />
-  </a>
-</p>
+ - Node JS + Express
+ - MySQL
+ - PostgreSQL
+
+<h4>Frontend development</h4>
+
+ - HTML
+ - CSS
+ - JS
+ - React
+
