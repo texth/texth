@@ -8,7 +8,7 @@ Events management app [UEvent](https://github.com/FreQll/Uevent-Fullstack) (team
 
 
 ## My Tech. stack:
- - Java
+ - R
  - C
  - SAS
 
